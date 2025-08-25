@@ -1,0 +1,20 @@
+# Evitar subir datasets grandes
+*.csv
+*.xlsx
+data/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
